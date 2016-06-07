@@ -45,13 +45,13 @@ I plan to take the following classes to fulfill my education requirements:
     * [7.012][Introductory Biology]
  * [HASS Requirement][HASS Requirement]
    * [14.01][Microeconomics](Economics Concentration)
-    * [14.02][Macroeconomics](Economics Concentration)
-     * [14.12][Economic Game Theory](Economics Concentration)
-      * [6.073][Creating Video Games](HASS A)
-      * [6.207][Networks](HASS S)
-      * [21L.000][Writing About Literature](Hass H)(CI-HW)
-      * [6.805][Ethics and Laws on the Electronic Frontier](HASS S)
-      * [24.00][Problems in Philosophy](HASS H)(CI-H)
+   * [14.02][Macroeconomics](Economics Concentration)
+   * [14.12][Economic Game Theory](Economics Concentration)
+   * [6.073][Creating Video Games](HASS A)
+   * [6.207][Networks](HASS S)
+   * [21L.000][Writing About Literature](Hass H)(CI-HW)
+   * [6.805][Ethics and Laws on the Electronic Frontier](HASS S)
+   * [24.00][Problems in Philosophy](HASS H)(CI-H)
  * [REST Requirement][REST]
    * Satisfied by Major requirements.
  * [Laboratory Requirement][LAB]
