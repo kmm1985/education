@@ -141,15 +141,17 @@ I plan to take the following classes to fulfill my education requirements:
 
 ### Authorship
 This project is completely my own.  All files found in [my github respository][46]
-were created by me, Kelvin M Maki<kelvin.maki@yahoo.com>, unless they were supplied
+were created by me, Kelvin M Maki, <kelvin.maki@yahoo.com>, unless they were supplied
 as part of the [OCW][1] supplemental materials.
+
 ### Licensing
 Unless otherwise specified, all files in this [repository][46] are to implicitly
 follow the following terms:
-  Copyright 2016 (c) Kelvin M Maki <kelvin.maki@yahoo.com>
-  This work is free. you may distribute and/or modify it under the terms of the
-  Do What The Fuck You Want To Public License, Version 2, as published by Sam
-  Hocevar. See http://www.wtfpl.net/ for more details.
+
+    Copyright 2016 (c) Kelvin M Maki <kelvin.maki@yahoo.com>
+    This work is free. you may distribute and/or modify it under the terms of the
+    Do What The Fuck You Want To Public License, Version 2, as published by Sam
+    Hocevar. See http://www.wtfpl.net/ for more details.
 
 [1]:http://ocw.mit.edu/index.htm
 [2]:http://catalog.mit.edu/degree-charts/computer-science-engineering-course-6-3/
