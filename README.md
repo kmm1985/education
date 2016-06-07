@@ -146,7 +146,7 @@ as part of the [OCW][1] supplemental materials.
 
 ### Licensing
 Unless otherwise specified, all files in this [repository][46] are to implicitly
-follow the following terms:
+bound by the following terms:
 
     Copyright 2016 (c) Kelvin M Maki <kelvin.maki@yahoo.com>
     This work is free. you may distribute and/or modify it under the terms of the
