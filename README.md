@@ -37,12 +37,12 @@ I plan to take the following classes to fulfill my education requirements:
 
 * [General Institute Requirements][GIR]
   * [Science Requirement][Science Req]
-   * [8.012][Physics I]
+    * [8.012][Physics I]
     * [8.022][Physics II]
-     * [5.111][Principles of Chemical Science]
-      * [18.014][Calculus I]
-       * [18.024][Calculus II]
-        * [7.012][Introductory Biology]
+    * [5.111][Principles of Chemical Science]
+    * [18.014][Calculus I]
+    * [18.024][Calculus II]
+    * [7.012][Introductory Biology]
  * [HASS Requirement][HASS Requirement]
    * [14.01][Microeconomics](Economics Concentration)
     * [14.02][Macroeconomics](Economics Concentration)
