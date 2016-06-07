@@ -38,7 +38,7 @@ I plan to take the following classes to fulfill my education requirements:
 * [General Institute Requirements][GIR]
  * [Science Requirement][Science Req]
    * [8.012][Physics I]
-     * [8.022][Physics II]
+    * [8.022][Physics II]
    * [5.111][Principles of Chemical Science]
    * [18.014][Calculus I]
    * [18.024][Calculus II]
