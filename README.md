@@ -87,7 +87,7 @@ I plan to take the following classes to fulfill my education requirements:
     * [6.046][Design of Algorithms]
   * Advanced Undergraduate Subjects
     * [6.170][Software Studio]
-    * [6.172][Performace Engineering of Software Systems]  
+    * [6.172][Performance Engineering of Software Systems]  
   * Unrestricted Electives
     * [6.041][Probabilistic Systems Analysis]
     * [6.801][Machine Vision]
@@ -120,7 +120,7 @@ I plan to take the following classes to fulfill my education requirements:
 5. Fifth Semester
   * [18.06][Linear Algebra]
   * [6.006][Algorithms]
-  * [6.041][Probablistic Systems Analysis]
+  * [6.041][Probabilistic Systems Analysis]
   * [14.02][Macroeconomics]
 6. Sixth Semseter
   * [6.207][Networks]
@@ -183,7 +183,7 @@ in the file LICENSE in this repository's root directory.
 [Artificial Intelligence]:http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/
 [Design of Algorithms]:http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/
 [Software Studio]:http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-170-software-studio-spring-2013/
-[Performace Engineering of Software Systems]:http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-172-performance-engineering-of-software-systems-fall-2010/
+[Performance Engineering of Software Systems]:http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-172-performance-engineering-of-software-systems-fall-2010/
 [Probabilistic Systems Analysis]:http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/
 [Machine Vision]:http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-801-machine-vision-fall-2004/
 [Computer Graphics]:http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-837-computer-graphics-fall-2012/
