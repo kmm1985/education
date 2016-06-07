@@ -149,7 +149,8 @@ in the file LICENSE in this repository's root directory.
 [CS Degree]:http://catalog.mit.edu/degree-charts/computer-science-engineering-course-6-3/
 [SICP]:http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/
 [Circuits and Electronics]:http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-002-circuits-and-electronics-spring-2007/
-[Signals and Systems]:http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-003-signals-and-systems-fall-2011/ [SICP Book]:https://mitpress.mit.edu/sicp/full-text/book/book.html
+[Signals and Systems]:http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-003-signals-and-systems-fall-2011/
+[SICP Book]:https://mitpress.mit.edu/sicp/full-text/book/book.html
 [HASS Requirement]:http://web.mit.edu/hassreq/
 [PE Requirement]:http://catalog.mit.edu/mit/undergraduate-education/general-institute-requirements/#physicaleducationtext
 [GIR]:http://catalog.mit.edu/mit/undergraduate-education/general-institute-requirements/#text
