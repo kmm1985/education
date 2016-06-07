@@ -36,22 +36,22 @@ directory.
 I plan to take the following classes to fulfill my education requirements:
 
 * [General Institute Requirements][GIR]
- * [Science Requirement][Science Req]
+  * [Science Requirement][Science Req]
    * [8.012][Physics I]
     * [8.022][Physics II]
-   * [5.111][Principles of Chemical Science]
-   * [18.014][Calculus I]
-   * [18.024][Calculus II]
-   * [7.012][Introductory Biology]
+     * [5.111][Principles of Chemical Science]
+      * [18.014][Calculus I]
+       * [18.024][Calculus II]
+        * [7.012][Introductory Biology]
  * [HASS Requirement][HASS Requirement]
    * [14.01][Microeconomics](Economics Concentration)
-   * [14.02][Macroeconomics](Economics Concentration)
-   * [14.12][Economic Game Theory](Economics Concentration)
-   * [6.073][Creating Video Games](HASS A)
-   * [6.207][Networks](HASS S)
-   * [21L.000][Writing About Literature](Hass H)(CI-HW)
-   * [6.805][Ethics and Laws on the Electronic Frontier](HASS S)
-   * [24.00][Problems in Philosophy](HASS H)(CI-H)
+    * [14.02][Macroeconomics](Economics Concentration)
+     * [14.12][Economic Game Theory](Economics Concentration)
+      * [6.073][Creating Video Games](HASS A)
+       * [6.207][Networks](HASS S)
+        * [21L.000][Writing About Literature](Hass H)(CI-HW)
+         * [6.805][Ethics and Laws on the Electronic Frontier](HASS S)
+          * [24.00][Problems in Philosophy](HASS H)(CI-H)
  * [REST Requirement][REST]
    * Satisfied by Major requirements.
  * [Laboratory Requirement][LAB]
@@ -63,82 +63,82 @@ I plan to take the following classes to fulfill my education requirements:
 * Major Requirements
  * Required Subjects
    * [6.001][SICP]
-   * [6.002][Circuits and Electronics]
-   * [6.003][Signals and Systems]
-   * [6.UAT and 6.UAP][Undergraduate Advanced Project](This course is not offered
-     on [Open Courseware][OCW].  I will instead create and document two non-trivial
-     software projects to satisfy this requirement.  I do not have an advisor...if
-     someone who has taken these classes(or an educator at a major university) would
-     like to offer free advice should they stumble upon my project, I would appreciate
-     that... otherwise I will hope that the projects that I choose to make will be
-     appropriate for the level of education that I am trying to simulate.
+    * [6.002][Circuits and Electronics]
+     * [6.003][Signals and Systems]
+      * [6.UAT and 6.UAP][Undergraduate Advanced Project](This course is not offered
+        on [Open Courseware][OCW].  I will instead create and document two non-trivial
+        software projects to satisfy this requirement.  I do not have an advisor...if
+        someone who has taken these classes(or an educator at a major university) would
+        like to offer free advice should they stumble upon my project, I would appreciate
+        that... otherwise I will hope that the projects that I choose to make will be
+        appropriate for the level of education that I am trying to simulate.
  * Restricted Electives
    * [6.042][Math for Computer Science]
-   * [18.06][Linear Algebra]
+    * [18.06][Linear Algebra]
  * Department Laboratory
    * [6.035][Computer Language Engineering]
  * CS Foundation Subjects
    * [6.004][Computation Structures]
-   * [6.005][Software Construction]
-   * [6.006][Algorithms]
+    * [6.005][Software Construction]
+     * [6.006][Algorithms]
  * CS Header Subjects
    * [6.033][Computer System Engineering]
-   * [6.034][Artificial Intelligence]
-   * [6.046][Design of Algorithms]
+    * [6.034][Artificial Intelligence]
+     * [6.046][Design of Algorithms]
  * Advanced Undergraduate Subjects
    * [6.170][Software Studio]
-   * [6.172][Performace Engineering of Software Systems]  
+    * [6.172][Performace Engineering of Software Systems]  
  * Unrestricted Electives
    * [6.041][Probabilistic Systems Analysis]
-   * [6.801][Machine Vision]
-   * [6.837][Computer Graphics]
-   * [6.857][Network and Computer Security]
+    * [6.801][Machine Vision]
+     * [6.837][Computer Graphics]
+      * [6.857][Network and Computer Security]
 
 ### Coursework Schedule
 1. First Semester
   * [6.001][SICP]
-  * [18.014][Calculus I]
-  * [8.012][Physics I]
-  * [21L.000][Writing About Literature]
+   * [18.014][Calculus I]
+    * [8.012][Physics I]
+     * [21L.000][Writing About Literature]
 2. Second Semester
   * [8.022][Physics II]
-  * [18.024][Calculus II]
-  * [24.00][Problems in Philosophy]
-  * [5.111][Principles of Chemical Science]
+   * [18.024][Calculus II]
+    * [24.00][Problems in Philosophy]
+     * [5.111][Principles of Chemical Science]
 3. Third Semester
   * [6.002][Circuits and Electronics]
-  * [6.003][Signals and Systems]
-  * [7.012][Introductory Biology]
-  * [14.01][Microeconomics]
+   * [6.003][Signals and Systems]
+    * [7.012][Introductory Biology]
+     * [14.01][Microeconomics]
 4. Fourth Semester
   * [6.042][Math for Computer Science]
-  * [6.004][Computation Structures]
-  * [6.005][Software Construction]
-  * [6.073][Creating Video Games]
-  * [6.UAT][Undergraduate Advanced Project](First well documented non-trivial
-    software project.)
+   * [6.004][Computation Structures]
+    * [6.005][Software Construction]
+     * [6.073][Creating Video Games]
+      * [6.UAT][Undergraduate Advanced Project](First well documented non-trivial
+        software project.)
 5. Fifth Semester
   * [18.06][Linear Algebra]
-  * [6.006][Algorithms]
-  * [6.041][Probablistic Systems Analysis]
-  * [14.02][Macroeconomics]
+   * [6.006][Algorithms]
+    * [6.041][Probablistic Systems Analysis]
+     * [14.02][Macroeconomics]
 6. Sixth Semseter
   * [6.207][Networks]
-  * [6.035][Computer Language Engineering]
-  * [6.033][Computer System Engineering]
-  * [6.034][Artificial Intelligence]
+   * [6.035][Computer Language Engineering]
+    * [6.033][Computer System Engineering]
+      * [6.034][Artificial Intelligence]
 7. Seventh Semester
   * [14.12][Economic Game Theory]
-  * [6.046][Design of Algorithms]
-  * [6.170][Software Studio]
-  * [6.801][Machine Vision]
+   * [6.046][Design of Algorithms]
+    * [6.170][Software Studio]
+     * [6.801][Machine Vision]
 8. Semester Eight
   * [6.805][Ethics and Laws on the Electronic Frontier]
-  * [6.172][Performance Engineering of Software Systems]
-  * [6.837][Computer Graphics]
-  * [6.857][Network and Computer Security]
-  * [6.UAP][Undergraduate Advanced Project](Final well documented non-trivial
-    software project.)
+   * [6.172][Performance Engineering of Software Systems]
+    * [6.837][Computer Graphics]
+     * [6.857][Network and Computer Security]
+      * [6.UAP][Undergraduate Advanced Project](Final well documented non-trivial
+        software project.)
 
 ### Licensing
 Unless otherwise specified, all files in this repository are licensed under
