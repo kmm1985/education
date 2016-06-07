@@ -1,5 +1,5 @@
 # Education
-## My simulated undergraduate degree using [MIT Open Courseware][OCW]
+## My simulated undergraduate degree using [MIT Open Courseware][1]
 
 ### Objective
 This project is an attempt to simulate an undergraduate education.  I will
