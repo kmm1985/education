@@ -28,7 +28,7 @@ and will count that as passing the [physical education requirement][10].
 
 Any other modifications to the actual [MIT Computer Science and Engineering][2]
 curriculum not mentioned above will be listed below in the curriculum plan.  Also,
-each "semeseter" and each class will have its own course format document in its
+each "semester" and each class will have its own course format document in its
 directory which will outline any modifications to the actual curriculum.
 
 ### Curriculum
@@ -56,7 +56,7 @@ I plan to take the following classes to fulfill my education requirements:
   * [Laboratory Requirement][28]
     * Satisfied by Major requirements.
   * [Communication Requirement][29]
-    * Satisfied by HASS(CI-HW and CI-H) and Major(Two CI-M) requirements.
+     Satisfied by HASS(CI-HW and CI-H) and Major(Two CI-M) requirements.
   * [Physical Education Requirement][10]
     * See above under the "Format" section for my completion of this requirement.
   * Major Requirements
@@ -140,7 +140,7 @@ I plan to take the following classes to fulfill my education requirements:
     software project.)
 
 ### Authorship
-This project is completely my own.  All files found in [my github respository][46]
+This project is completely my own.  All files found in [my github repository][46]
 were created by me, Kelvin M Maki, <kelvin.maki@yahoo.com>, unless they were supplied
 as part of the [OCW][1] supplemental materials.
 
